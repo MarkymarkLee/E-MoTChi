@@ -15,11 +15,12 @@ Huggingface Link
 
 ## Dataset
 
-Huggingface Link
-
-## Architecture
-
-E-MoTChi is based on ...
+Three different dataset under training data:
+```
+1. 20% algo & 80% gpt
+2. 50% algo & 50% gpt
+3. 80% algo & 20% gpt
+```
 
 ## Two Competitor model
 
