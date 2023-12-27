@@ -15,7 +15,7 @@ Huggingface Link
 
 ## Dataset
 
-Three different dataset under training data:
+Three different dataset under ./training_data:
 ```
 1. 20% algo & 80% gpt
 2. 50% algo & 50% gpt
