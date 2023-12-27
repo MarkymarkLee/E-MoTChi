@@ -6,9 +6,8 @@ E-MoTChi is a tuned model for emoji-to-Traditional-Mandarin translation applicat
 
 ## Key Features
 
-1. Traditional Mandarin to Emoji: 
-2. Emoji to Traditional Mandarin:
-3. Performance:
+1. Traditional Mandarin to Emoji (with the power of understanding homophonic)
+2. Emoji to Traditional Mandarin (with the power of understanding homophonic)
 
 ## Model
 
